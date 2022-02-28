@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Government described: viz. what monarchie, aristocracie, oligarchie, and democracie, is. Together with a brief model of the government of the common-wealth, or, free-state of Ragouse. Fit for view at this present juncture of settlement. By J.S.</title>
+            <author>Streater, John, fl. 1650-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94041</idno>
+            <idno type="STC">Wing S5947A</idno>
+            <idno type="STC">Thomason E985_7</idno>
+            <idno type="STC">ESTC R203466</idno>
+            <idno type="EEBO-CITATION">99863415</idno>
+            <idno type="PROQUEST">99863415</idno>
+            <idno type="VID">168600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168600)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E985[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Government described: viz. what monarchie, aristocracie, oligarchie, and democracie, is. Together with a brief model of the government of the common-wealth, or, free-state of Ragouse. Fit for view at this present juncture of settlement. By J.S.</title>
+                  <author>Streater, John, fl. 1650-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.S. = John Streater.</note>
+                  <note>The words "monarchie, .. democracie," are bracketed together on title page.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1770 as Wing (2nd ed.) S63.</note>
+                  <note>Annotation on Thomason copy: "M June. 1.".</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts), and the Bodleian Library (Early English books, 1641-1700).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dubrovnik (Republic) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168600:1" rendition="simple:additions"/>
+            <p>Government Deſcribed: <hi>Viz.</hi> What
+<list>
+                  <item>
+                     <hi>Monarchie,</hi>
+                  </item>
+                  <item>
+                     <hi>Ariſtocracie,</hi>
+                  </item>
+                  <item>
+                     <hi>Oligarchie,</hi> And</item>
+                  <item>
+                     <hi>Democracie,</hi>
+                  </item>
+               </list> is. TOGETHER With a Brief <hi>MODEL</hi> OF THE GOVERNMENT OF THE Common-Wealth, OR, Free-State of <hi>RAGOUSE. Fit for View at this preſent Juncture of Settlement.</hi>
+            </p>
+            <p>By <hi>J. S.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:168600:2"/>
+            <head>THE GOVERNMENT OF <hi>Monarchie, Ariſtocracie, Oligar<g ref="char:EOLhyphen"/>chie,</hi> and <hi>Democracie,</hi> Deſcribed.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Overnment hath in it this Order, Commanding and Obeying: The firſt Government was paternal, when the Fathers or the Eldeſt of the Family did command the reſt, which laſted all the time that men lived to a great Age. Whileſt this Government continued, Law was not invented, becauſe that the Father of the Fa<g ref="char:EOLhyphen"/>mily, by the Inſtitutions of Nature, could do nothing but what was good for the whole Family; therefore they were not neceſ<g ref="char:EOLhyphen"/>ſitated to ſeek for Laws to ſecure them. The firſt, that brake this Order of Government was <hi>Nimrod,</hi> who uſurpt abſolute Power, and held people to ſervitude by Force and Policy. Beſides, Families did ſo much increaſe, they were neceſſitated to joyn ſeveral ſmall ones together to oppoſe more powerful and mighty Families who ſought for Soveraignty and Dominion. In theſe Confederacies they united themſelves; ſome Families under one, as their Captain, or Prince, or Monarch: Others, into a Democracy, or Number of Magiſtrates, that were to conſult the good of that Confederacy or Society.</p>
+            <p>It would take up a Volume , to give the ſeveral Inſtances that are in H ſtory, of this Nature , the which ſhall be waved; onely remember, that <hi>Abraham</hi> did of his own Houſhold arm ſuch a number of men, that He gave Battel to the Kings of the Plain, and recovered <hi>Lot</hi> from his Captivi<g ref="char:EOLhyphen"/>ty.
+<pb n="3" facs="tcp:168600:2"/>Paternal Government ceaſing, people caſt themſelves into ſeverall Forms of Government, and they received their Denomination from thoſe that were Chief, and their variety of Forms; either from their Opinion of ſuch a Form to be beſt; or, becauſe that, at the Inſtitutio, none perſon, or the Nobility, or the eminenteſt amongſt the people, or the people themſelves, had m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt power. Even ſo upon a Change of Government it falleth out, that the Government receiveth its Form from them in whom Power is. The chief of the Forms of Government are, firſt, Monarchy, that is, by a ſingle perſon, who is bound by vertue of his Office, to rule according to the Laws of the People for the profit of all: But it often falleth out, that that ſort of Government degenerateth, and cannot be kept within its Limits and Bounds: But, on the contrary , conſpiring in behalf of its own Intereſt, againſt the Intereſt of the people, it thereby converteth it ſelf into Tyran<g ref="char:EOLhyphen"/>ny, the worſt of Governments. The Tyrant ruleth by his Will, and layeth aſide the Laws, and conſulteth not the Intereſt of a people. A Monarchy is a dangerous Government in regard it can ſo readily make or it ſelf a Tyranny. It is the deſire of Mankind to be abſolute, and a Monarch ſhall never want Flatterers to prompt and haſten him to a Tyranny; becauſe, under a Tyranny, they can the better oppreſs the People, and arrive to Greatneſs and Wealth by the Peoples Ruine. They hold the people by their own Arms and Treaſure, in Obedience to the Tyrant, onely for his Profit and Commodity, becauſe he onely communicates the benefit of his power to ſuch as conſpire and are Confederates with him, in holding the people to their Servitude.</p>
+            <p>
+               <hi>Ariſtocratical Government,</hi> is when the Noble-men bear ſway, or ſuch a number of men, as at the firſt founding, or conſtituting of that Government, were Chief, and had Preſidency of the reſt. Such is the State of <hi>Venice</hi> at this day, which ſuiteth well with its Situation, and the diſtance of the reſt of its Seigniory; but it would ſcarce ſerve any ether Common-wealth; in regard that the reſt of the Seigniory are Forreigners either under their Protection or Obedience, they being Subjects to the Government, not Members of it; and there is but few in the City, but what have ſhare in the Government. This ſort of Government would not be durable in a large Commonwealth, becauſe that the Policy of this Government natu<g ref="char:EOLhyphen"/>rally muſt prevent and ſuppreſs the increaſe of other Noble Familie, in or<g ref="char:EOLhyphen"/>der to its own preſervation. Thoſeh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at are excluded , when once grown rich, and thereby attained to Education, do deſire to have ſhare in the Govern<g ref="char:EOLhyphen"/>ment, and ſhake off Servitude, which cauſeth Changes: Beſides, the great men in this Government do create a diſtinct Intereſt from that of the pub<g ref="char:EOLhyphen"/>like, by fortifying the Security of their own Families; and if once they ſhould fall into Factions, immediatly the moſt powerful Faction ſetteth up one of their own Faction to be Prince, or at leaſt the Leader thereof hath opportunity, thereby to make himſelf Prince; as it fell out by the Houſe of the <hi>Medici</hi> at <hi>Florence;</hi> and alſo at <hi>Rome,</hi> by <hi>Sylla,</hi> who was head of the Faction of the Nobility, againſt that of <hi>Marius,</hi> the Head of the popular Faction.</p>
+            <pb n="4" facs="tcp:168600:3"/>
+            <p>There are <hi>Ariſtocracies</hi> mixt with <hi>Democracies;</hi> as that of the United Provinces. The Great men Conſult of the Affairs of the Common-wealth with the Peoples Deputies, who are Annually Choſen.</p>
+            <p>
+               <hi>Oligarchy,</hi> is the Government of a Common-wealth by a ſmall Number, who either hold by Policy or Force, the Supremacy; or who have abſolute Authority given to them. Such were the <hi>Triumvirate</hi> and the <hi>Dec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mviri</hi> amongſt the <hi>Romans;</hi> Such alſo were the Thirty Tyrants at <hi>Athens:</hi> this kind of Government was upon ſpeciall occaſions Erected amongſt the An<g ref="char:EOLhyphen"/>tients, to carry on ſome Notable Undertaking, or to Determine and Ar<g ref="char:EOLhyphen"/>bitrate ſome difference as was blown big by Factions in the Common-wealth: the which power proveth Immediately dangerous, if not called in, and Nulled, ſo ſoon as the occaſion is over, for which it was ordained; No Government can be more dangerous then this is, where the People are di<g ref="char:EOLhyphen"/>vided either in Civill or Religious Reſpects: in ſuch a Caſe there ſhall be nothing but Changes, Murder, Miſeries of all kinds, and deſtruction pro<g ref="char:EOLhyphen"/>duced, in the Common-wealth; it onely Reſpecteth me good of thoſe that Have the Government, and thoſe that adhe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to them: For the reſt of the people, they muſt bereave them of their Wit, Money, and Arms. That was an Excellent <hi>Oligarchy</hi> Erected by <hi>John</hi> of <hi>Leydon</hi> at <hi>Munſter;</hi> and was like to have been here in <hi>England,</hi> by a ce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tain People<g ref="char:punc">▪</g> that are uncon<g ref="char:EOLhyphen"/>ſtant, unlimited, ſpiritually proud, and notoriouſly Ignorant; who think none to have Right in Government, but themſelves.</p>
+            <p>
+               <hi>Democracy</hi> is a Government, where the Governours are Elected by the People out of themſelves; ſometimes called Free-State, or Popular State, or Common-wealth: This kind of Government by the People, is the moſt Natural, and beſt ſort of all Governments; they Elect their Magiſtrates, which are to continue in power but one year, or leſs; they Truſt not their Arms in the hands of one Perſon, but they are managed by a Councel: This is the beſt ſort of Government, becauſe that the perſons do not continue long in Truſt: the which is the onely means to keep them from Corrup<g ref="char:EOLhyphen"/>tion or Oppreſſion. When they ſhall be reduced to a private Capacity, and be ſubject to give an Account of their Truſt, doth not that Common-wealth ſtand better Aſſured to be free from Corruption, then that Conſti<g ref="char:EOLhyphen"/>tution that ſhall ſecure the perſons Governing, and protect them from Ju<g ref="char:EOLhyphen"/>ſtice: He who doth continue alwayes in power, is enabled by virtue of his power to ſecure himſelf from being queſtioned; and maketh uſe of his Authority that ſhould be to diſcourage Evil doers, to defend himſelf in Evill doing. But when the Common-wealth is large, and they ſend their Deputies, and Inveſt them with their Legiſlative power, who meet and Conſult about making Lawes, Peace and War, and the management of other State-Affairs; it is more orderly and freer from all manner of Faction, than it would be, if the People ſhould meet all in one Body, and
+<pb n="5" facs="tcp:168600:3"/>make Lawes as they did at <hi>Rome, Athens, Sparta, Corinth, Thebes,</hi> and other Grecian States. Although the People have not an Immediate hand in the Supream management of Affairs; yet they have the vertual power in them by Election, which is the Original of the being of Supream Autho<g ref="char:EOLhyphen"/>rity, and alſo a poſſibility for every one that can arrive to Credit by his Parts, to be Choſen and Elected for the Next Repreſentative: the which will animate an hundred in this Government (to one in any other ſort of Go<g ref="char:EOLhyphen"/>vernment) to put themſelves forth to acquire Parts, and to fit themſelves with Abilities to ſerve the Publique, either by Councel or Arms.</p>
+            <p>I will here ſay nothing at all of the Defects of this Government, and the Remedies; nor of any other Government: it ſhall be done ſhortly in a Volume. But here I will give you a brief Modell of the Government of the Common-wealth or Free-State of <hi>Ragouſe,</hi> ſcituated in <hi>Dalmatia,</hi> near the Bottom of the Ad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iatick or Gulph of <hi>Venice. Reader,</hi> here take notice, That a Common-wealth thus Conſtituted, though ſmall, is able to preſerve it ſelf againſt the moſt powerful Princes; The Councels propor<g ref="char:EOLhyphen"/>tionably of ſuch a Common-wealth, are more ſtrong, and their Swords more ſharp, then a Prince's. This Common-wealth or Free-State main<g ref="char:EOLhyphen"/>taineth its ſelf by its Juſt Impartial Policy, in perfect Freedom and Strength, notwithſtanding they border on the Tyrannicall Turk's Domi<g ref="char:EOLhyphen"/>nions.</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:168600:4"/>
+            <head>The Government of the Common-wealth of <hi>Ragouſe.</hi>
+            </head>
+            <p>
+               <hi>RAgouſe</hi> hath nor been alwayes a Common-weal, for that it hath obeyed divers Lords ac divers times; ſometimes <hi>Grecians,</hi> ſome<g ref="char:EOLhyphen"/>times <hi>Albanians.</hi> But ſince it hath embraced this kind of Govern<g ref="char:EOLhyphen"/>ment, they have been in ſome reputation. The <hi>Ragouſans,</hi> when as they ſought to reduce the Town to a Common-weal, followed (for the moſt part) the order of the State of <hi>Venice.</hi> Being thus reſolved, they firſt inſtituted a Great Councel, knowing, that it was the foundation of a Com<g ref="char:EOLhyphen"/>mon-weal, and as it were the firm Baſis or Ground-work of their City. All Gentlemen of the City enter into this Councel, having attained to the age of Twenty years, and they are admitted proving their Gentry. In this Councel th y create all the Magiſtrates of the City, which are ſuch as I will ſet down.</p>
+            <p>There are firſt the <hi>Pregadi,</hi> or Great Councel, which ſhould be common<g ref="char:EOLhyphen"/>ly Sixty. There may be many Gentlemen of one Family; for the Families in time are reduced into a ſmall number. Theſe have charge of the Affairs of the Common-weal, and do judge of Civill Cauſes; they alſo judge of Criminal Cauſes which are of Importance in regard of the perſons, as if any Gentleman be accuſed, or hath committed any Crime. They con<g ref="char:EOLhyphen"/>tinue a year in this Charge, and are changed, as they are void, for that they are not all created at one inſtant, but one after another, as they end.</p>
+            <p>The Petty Councel (ſo called in regard of the Great) is the Councel of the Rector, which conſiſts of eleven Perſons, all of divers Families; who aſſiſt the Rector or Head of this Common-weal. They receive and hear the Petitions and Demands of ſtrangers, and private men, Letters, Em<g ref="char:EOLhyphen"/>baſſadours, and ſuch like like; and are as a hand that preſents the things which come before them, to other Magiſtrates, and go afterwards to Officers ap<g ref="char:EOLhyphen"/>pointed for ſuch matters. And theſe decide ſome of thoſe things which are preſented to them, and report the reſt to the <hi>Pregadi</hi> or Great Councel. They continue but one year in this Charge, and go out together; and the others which are created by the Great Councel, enter into this Office with the new Rector, the firſt day of January.</p>
+            <p>This Rector, who is head of all the Councels, is choſen in the Grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Councel by three Elections, as they do in all other Offices; and of theſe Elections, the one is made by ſcrutiny by three Councellors of the Rector<g ref="char:punc">▪</g> and the two others are made by Lot. The Rector remaineth but on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:168600:4"/>Moneth in Charge, and he is bound, during that moneth, to live in the Pa<g ref="char:EOLhyphen"/>lace. He wears the hab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te of a Duke, tint is, a Robe with open ſleeves, different from others by reaſon of his Authority. They give ſeven Duckats a moneth for his ente<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tainment: yet when he is one of the <hi>Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gadi,</hi> he hath a Duckat eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y day to aſſiſt.</p>
+            <p>This Rector aſſembles with the Councellours upon working-dayes af<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nner , and on Feſtival dayes on ſome occaſions. But if the Rector be not there, the moſt ancient Councellour enters into his place, yet they diſpatch not any thing without his preſence. They give this Rector a Liev<g ref="char:EOLhyphen"/>tenant, who hath Juriſdiction in matters which do not exceed three Duckats of Gold, and he is for Civill matters onely: The Councellours cannot be choſen Rectors the years, that they are in their Magiſtracy.</p>
+            <p>Next, there are five Purveyors, who are fifty years old and upwards, and muſt be of divers Families. They have authority to cauſe all exped<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions made by any Magiſtrate whatſoever, to be received, and they muſt be pre<g ref="char:EOLhyphen"/>ſent when as the Councels aſſemble. Theſe may be made Rectors during their Magiſtracy, and are ſo commonly. They are of the Chief of the Town, of great authority, and in a manner alwayes of the Councel.</p>
+            <p>After theſe, are the ſix Conſuls which hear Civil Cauſes, at firſt for any ſum whatſoever. They are moſt commonly men of great authority, and which enter into Councel with the <hi>Pregadi,</hi> and they frame the proceſs of ſuch things as they judge. The parties are not accuſtomed to make alle<g ref="char:EOLhyphen"/>gations; but theſe Conſuls, hearing the matter in queſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, determine what Juſtice requires, and draw from every Cauſe two Duckats in the hundred. They cannot be Rectors for the ſpace of two years, left they ſhould alter their proceedings in Civil Cauſes, and to the end the people might be ſoon diſpatched in their Suits; For they do continually attend them.</p>
+            <p>There are alſo five Criminal Judges, and Expeditions go from them, at<g ref="char:EOLhyphen"/>cording to the Judgments which they make Gentl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men are excepted; for that in Criminal Cauſes they go before the Great Councel, and they that have Fees of the Commonweal anſwer before the petty Councel. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Judges are made Rectors, as the Purveyors be.</p>
+            <p>There are moreover three Offices upon the Art of Wool; theſe do com<g ref="char:EOLhyphen"/>monly hear the differences that grow betwixt men which exerciſe that Trade. They enter into the Great Councel, and may be made Rectors.</p>
+            <p>This Common-weal hath alſo a College of 30: into which there may enter many perſons of one Family. They take knowledge of Appellati<g ref="char:EOLhyphen"/>ons unto the ſum of three hundred Duckats, and every o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of them hath three Duckats yearly for their Wages; which is done, for that all O ficers are finable, if they attend not their Charges; for other wife they would not accept them, for they are of ſmall profit. When any Office is void, it is ſup<g ref="char:EOLhyphen"/>plied by one that is in ſome other Office. If one of the <hi>Pregadi</hi> dies, they ſupply his place by one of the Purveyors, or of his Colledge.</p>
+            <p>There are ſix Captains of the Night, who, one after another, have the Guard of the City in the Night, with the <hi>Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>garians,</hi> who are about one
+<pb n="8" facs="tcp:168600:5"/>hundred, with their Captains, and they obey theſe, who open and ſhut the Gates of the City. They remain two moneths in this Charge, and they ob<g ref="char:EOLhyphen"/>ſerve this order, that They which ſhut the City Gates at Night, do not, open them in the Morning, for they change them at Midnight.</p>
+            <p>The Captains and Earles, which go into Governments abroad through<g ref="char:EOLhyphen"/>out the Eſtate of this Commonwealth, are all created by the Great Coun<g ref="char:EOLhyphen"/>cel, and ſome of them remain in charge ſeven moneths, and others twelve</p>
+            <p>By this often changing of Officers, they preſerve themſelves: This is the true Embleme of a Free-State. The continuation of any Perſons, or Coun<g ref="char:EOLhyphen"/>cels, or Senates, are but Defects; unleſs that the Senate were alſo to be ele<g ref="char:EOLhyphen"/>cted, as well as the Great Councel, or Parliament; it is hard if the people cannot be truſted with Election. It's true, the people of <hi>England</hi> would, if intruſted now at this Juncture of time, elect ſuch as would deprive than of the bleſſed Government of a Free-State; but that muſt not be an Argu<g ref="char:EOLhyphen"/>ment to deprive them of their Right: they muſt be intruſted with Election with ſuch Qualifications, as may preſerve the Intereſt of the Common-wealth. Thoſe that alleadge, that a Free people ought not to be limited in that Caſe, may alſo alleadge, That a Phyſitian muſt not hinder his Patient of ſuch meat or drink as will ruine him, nor force him to take ſuch medi<g ref="char:EOLhyphen"/>cines, as will cure him. Liberty conſiſteth not in every ones doing what he liſteth; but true Liberty is ſuch a thing, as a convenient and neceſſary Bondage; that is, I ought to be limited in ſuch a thing: If not, it will be to the detriment of another; this Liberty would not conſiſt with Society. He that would aſſaſſinate himſelf, muſt be deprived of his Liberty to do ſo horrid an act. <hi>England</hi> yet was never a Free-State; but it will be, if the L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſlators can hit upon the Mark of denying themſelves, in perpetua<g ref="char:EOLhyphen"/>ting their Power. No doubt but the People may be truſted with their Li<g ref="char:EOLhyphen"/>berty in that point, and that with ſafety, if they bad taſted once of the bleſſed Fruits of the Government intended, and much pretended to.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
